@@ -1,0 +1,2 @@
+require("weykon")
+print("hello")
